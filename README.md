@@ -1,4 +1,4 @@
-# desafio-projeto
+#  Bootcamp-Inter-FrontEnd
 Repositório criado para praticar
 
 ##  Links Úteis
